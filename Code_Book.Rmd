@@ -27,7 +27,7 @@ The following variables are the average (mean) for each subject and activity
 corresponidg to the variables in the Human Activity Recognition Using Smartphones Data Set.
 'Avg_' is prepended to the variable names to indicate that they have been averaged.
 
-The code book for the original data set is inluded in the above link.
+The code book for the original data feature_info.txt,  set is inluded in the above link.
 
 Avg_tBodyAcc_mean_X 
 
